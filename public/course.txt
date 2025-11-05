@@ -1,0 +1,243 @@
+แพ็คเกจ	รหัสหลักสูตร	ชื่อหลักสูตร
+Infrastructure (Energy&Power)	240FEGY01S00	การบริหารจัดการพลังงานให้เกิดประสิทธิภาพสูงสุด
+Broadband	240NOSP01S00	NT km4u Blogger สร้างนักเขียนความรู้องค์กรเพื่อชาวเอ็นที
+Finance	240FFIN02C00	Finance for Non-Finance
+Broadband	240FMKT01S00	สัมมนาเชิงปฏิบัติการเรื่อง แผนการขายและแนวทางการทำตลาด ปี 2567 ภน.3
+Digital	240FCOM01E00	Security and Personal Data Protection Act (PDPA) Foundation
+Digital	240FBDA01V00	Apache Spark and Kafka for Stream Data Process (VC)
+Infrastructure (Network)	242FNET01C00	วงจรระหว่างประเทศ (IPLC) 
+Digital	242FOSP01W00	ICT Solution Business Bootcamp
+Risk, Policy , Law and Compliance	242FMGT01V00	การบริหารความต่อเนื่องทางธุรกิจ (Business Continuity Management  BCM)
+Digital	242FOSP02V00	แนวทางการขอปรับปรุงข้อมูลการพาดสายสื่อสารในระบบ TAMS ให้มีความถูกต้อง ระดับพื้นฐาน
+Digital	240FCOM02V00	ความตระหนักรู้ด้านความปลอดภัยทางไซเบอร์ (Cyber Security Awareness) 
+Marketing & Effective Communication 	240FMKT02C00	การขายออนไลน์เพื่อชุมชน
+Digital	242FOSP03C00	แนวทางการขอปรับปรุงข้อมูลการพาดสายสื่อสารในระบบ TAMS ให้มีความถูกต้องระดับปฏิบัติ
+เตรียมความพร้อมผู้บริหาร	240FMGT03I00	Vice President Advanced Development Program  (VP-ADP)
+Mobile /Wireless	240FMGT01C00	เทคโนโลยี 5G เพื่อการขายและให้บริการ Solution
+Risk, Policy , Law and Compliance	242FMGT02W00	หลักสูตร การอบรมเชิงปฏิบัติการ (Coaching Workshop) เพื่อยกประดับประสิทธิภาพการวางแผนเชิงยุทธศาสตร์  ด้าน Strategic Management (SM)
+Marketing & Effective Communication 	240FMKT04V00	การบริหารลูกค้ารายหลัก  ( Key Account Management )
+Marketing & Effective Communication 	240FMKT03S00	สัมมนาเชิงปฏิบัติการ Marketing Plan 2024 
+ภาษาต่างประเทศ	240FLAG01C00	English for Satellite Operation Staff
+Broadband	244FOSP01C00	MikroTik Certified  Routing Engineer (MTCRE)
+Human Resource Management /Human Resource Development	240FHRX01C00	โครงการสัมมนาเพื่อสร้างการรับรู้แนวโน้มและนโยบายการบริหารทุนมนุษย์ขององค์กรและข้อมูลด้าน HR  สำหรับผู้บริหารที่ทำหน้าที่เป็น HR Agent ของสายงาน
+Infrastructure (Network)	240FEXC01C00	IMS and SBC Operation and Maintenance
+Digital	242FOSP04W00	Cloud, Big Data and Smart Solutions
+Digital	241FDGT01W00	Enterprise Architecture Intensive Workshop
+Marketing & Effective Communication 	240FMGT02V00	NT CSR 2024 ภายใต้ โครงการ เพาะพันธุ์ดี NT Youth Club ประจำปี 2567
+Risk, Policy , Law and Compliance	240FMGT01W00	การอบรมเชิงปฏิบัติการ (Coaching Workshop) เพื่อยกระดับประสิทธิภาพ การวางแผนเชิงยุทธศาสตร์  ด้าน Strategic Management (SM)  หัวข้อ การวิเคราะห์ SA, SC, SOp, CC, FCC
+Digital	240FDGT03I00	โครงการ NT Data Analytics Hackathon 2024
+Digital	240FDGT02C00	การใช้ Slack เพื่อการสื่อสารและทำงานเป็นทีม
+Human Resource Management /Human Resource Development	240FHRM01C00	ปฐมนิเทศ (Orientation Program)
+Human Resource Management /Human Resource Development	240FFIN03C00	ครบเครื่องเรื่องการออมและลงทุน
+Risk, Policy , Law and Compliance	242FMGT03W00	การอบรมเชิงปฏิบัติการ (Coaching Workshop) เพื่อยกระดับประสิทธิภาพ การวางแผนเชิงยุทธศาสตร์  ด้าน Strategic Management (SM) Module 2 
+Good Governance and Corporate Social Responsibility	242FMGT04S00	โค้ช STRONG   องค์กรพอเพียงต้านทุจริต
+Digital	240FDGT04C00	เตรียมความพร้อมเพื่อรองรับเทคโนโลยี Data Science และ AI และการประยุกต์ใช้งานด้านเครือข่ายสารสนเทศ
+Essential Skills & Mindset	240FCUS01V00	การใช้ระบบงาน NTSP
+Marketing & Effective Communication 	240FMKT05V00	เทคโนโลยี AI เพื่อการสื่อสารและประชาสัมพันธ์
+Infrastructure (Energy&Power)	240FPOW02C00	แนะนำระบบพื้นฐานการกำลัง
+Essential Skills & Mindset	240FCUS02V00	การนำเข้าข้อมูลระบบ NTSP     
+Risk, Policy , Law and Compliance	240FSEC01C00	การปฏิบัติตาม พ.ร.บ.การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562 (สำหรับคณะทำงานฯ ปี 2567)
+Digital	240FDGT01C00	การบริหารและจัดการโครงการเป็นทีม ด้วย Trello
+ภาษาต่างประเทศ	241FLAG01V00	การพัฒนาทักษะภาษาอังกฤษด้วยแพลตฟอร์มออนไลน์
+Infrastructure (Energy&Power)	240FPOW01C00	ระบบเครื่องปรับอากาศทั่วไป
+Digital	240FITS01C00	Docker Container Fundamentals (3วัน)
+เตรียมความพร้อมผู้บริหาร	240FMGT05C00	Public Speaking
+Risk, Policy , Law and Compliance	240FMGT04C00	NEW GLOBAL INTERNAL AUDIT STANDARDS 2025 สู่แผนการปรับตัวงานตรวจสอบใหม่และแนวปฏิบัติใหม่สำหรับหน่วยงานภาครัฐ 
+Digital	241FDGT02C00	การอบรมด้านการจัดการนวัตกรรมสำหรับบริษัท โทรคมนาคมแห่งชาติ จำกัด (มหาชน)
+Digital	240FDEV02V00	พัฒนา Web Application ด้วย Yii Framework
+Digital	240FSEC02S00	สร้างเกราะป้องกันให้ระบบ : เรียนรู้วิธีตั้งค่าระบบที่ปลอดภัยสำหรับผู้ดูแลระบบ (secure configuration) 
+Finance	240FFIN01C00	การวิเคราะห์ความคุ้มค่าการลงทุน ของแผนงาน
+เตรียมความพร้อมผู้บริหาร	240FMGT06C00	การเขียนหนังสือราชการ
+Digital	240FDGT06C00	Build AI Applications using LLMs: from Theory to Practice
+Digital	242FDGT01C00	การอบรมเชิงปฏิบัติการ (Workshop) บริการ NT Event WiFi     
+Essential Skills & Mindset	240FDGT07C00	การ Cleansing Port ของ  Section B ในระบบ NTSP
+Digital	242FOSP05V00	รูปแบบการให้บริการ Smart Digital Prime เพื่อเพิ่มลูกค้ากลุ่มองค์กรในพื้นที่
+Marketing & Effective Communication 	240FSER01V00	การสื่อสารที่มีประสิทธิภาพ
+Marketing & Effective Communication 	240FMKT07C00	Digital Marketing  & Digital Communications
+Team Collaboration	240CMGT01C00	การขับเคลื่อนองค์กรด้วย PRIDED มุ่งสู่เป้าหมายเดียวกัน
+Finance	240FFIN04E00	ครบเครื่องเรื่องการออมและลงทุน E-Learning
+Marketing & Effective Communication 	240FMKT06C00	เทคโนโลยี AI  เพื่อการสื่อสารและงานประชาสัมพันธ์
+Risk, Policy , Law and Compliance	241FSAF01V00	หลักสูตร การปลูกฝังพฤติกรรมด้านความปลอดภัย (BBS) และการฝึกหยั่งรู้ระวังภัย (อันตรายล่วงหน้า) (KYT) ในการทำงาน 
+Finance	240FFIN05C00	ใช้เงินอย่างไรหลังเกษียณ อย่างมีความสุข  Happy Money, Happy Retirement
+Digital	240FDGT05C00	การใช้ Microsoft Power BI ในการคำนวณ วิเคราะห์ข้อมูล และสร้างรายงาน 
+Risk, Policy , Law and Compliance	240FSAF01C00	ความปลอดภัย อาชีวอนามัย และสภาพแวดล้อมในการทำงานสำหรับพนักงาน 
+Marketing & Effective Communication 	240FSEL01C00	การเจรจาต่อรองและโน้มน้าวใจในงานขาย 
+Digital	240FDEV01C00	Introduction to Software Architecture and Design Patterns
+Essential Skills & Mindset	240FDES01C00	Innovation and Process Improvement Through Design Thinking 
+Infrastructure (Network)	240FSEL02C00	"	 NT SALES - การพัฒนาทีมขายเพื่อรองรับการให้บริการ 5G Private Network"
+Digital	242FSEC01S00	สัมมนาหลักสูตร NT Cyber Security Day 2024 หัวข้องานปลดล็อกกลโกง ป้องกันภัยจากแก๊ง Call Center
+Infrastructure (Network)	240FNET01C00	การติดตั้งและบำรุงรักษาระบบเครือข่ายกล้องวงจรปิดเมืองอัจฉริยะ
+Marketing & Effective Communication 	240FMGT07C00	การวางแผนกลยุทธ์การตลาดและลูกค้า
+Team Collaboration	240CMGT02C00	ปลุกพลังนักสู้ NT 
+Digital	240FDGT08C00	Introduction to Core Digital Technologies
+Risk, Policy , Law and Compliance	241FSAF02C00	จิตสำนึกความปลอดภัยสำหรับผู้บริหาร
+Digital	242FMGT05V00	การบริหารจัดการทรัพย์สินด้านเทคโนโลยีสารสนเทศ (IT Asset Management)
+Risk, Policy , Law and Compliance	240FSAF02C00	การฝึกซ้อมดับเพลิงและอพยพหนีไฟ สถาบันวิชาการ (สก.) ประจำปี 2567
+Risk, Policy , Law and Compliance	240FCGG01C00	การบริหารความเสี่ยงการทุจริต (Corruption Risk Assessment)
+Risk, Policy , Law and Compliance	241FSAF05C00	คณะกรรมการความปลอดภัย อาชีวอนามัย และสภาพแวดล้อมในการทำงาน
+Risk, Policy , Law and Compliance	241FSAF04C00	หลักสูตรเจ้าหน้าที่ความปลอดภัยในการทำงานระดับหัวหน้างาน
+Risk, Policy , Law and Compliance	241FSAF03C00	หลักสูตร เจ้าหน้าที่ความปลอดภัยในการทำงานระดับบริหาร 
+Finance	240FAFS01V00	การจัดซื้อจัดจ้างและการบริหารพัสดุ
+Essential Skills & Mindset	240CDEV01C00	สัมมนา พลิกโฉมการบริหารงานด้วย GenAI  เสริมศักยภาพองค์กรสู่ความสำเร็จ รุ่นที่ 1 
+Digital	240FITS02V00	SAP HANA - FI
+กฎหมาย	255NLAW01C00	กฎหมายปกครองและวิธีพิจารณาคดีปกครอง (ก.ศ.ป.)
+Technology and Digital	255NTRX01C00	สัมมนา Building a Collaborative Ecosystem for Non-Terrestrial Network Success
+Technology and Digital	255NTRX02C00	Asia-Pacific Satellite Communications Council 2024 (APSCC 2024) 
+Technology and Digital	255NTRX03C00	Thailand Space Week 
+Human Resource Management /Human Resource Development	252FHRX01V00	SAP HANA (HRM)
+การกำลังและพลังงาน	255NPOW01C00	ช่างเดินสายไฟฟ้าในอาคาร (ELE) ระดับ 1
+การบริหารและจัดการ	255NMGT03C00	Data Governance in Action Class & Workshop
+ภาษาต่างประเทศ	250FLAG01C00	English for Data Interchange Products Staff
+คุณภาพ มาตรฐาน และความปลอดภัย	255NSEC01C00	Certified in Cybersecurity (CC) เตรียมพร้อมสู่การสอบใบประกาศนียบัตรระดับสากล
+การกำลังและพลังงาน	255NOSP01C00	การทำงานเกี่ยวกับสายสื่อสารของหน่วยงานภายนอกบนเสาไฟฟ้าของ กฟภ.
+Broadband	252FOSP01C00	การประยุกต์ใช้งานเครื่องมือ OTDR
+การบริหารและจัดการ	255NMGT01E00	การจัดการความรู้ 
+Technology and Digital	255NDGT01C00	ศึกษาดูงานในงานนิทรรศการอวกาศ Space Journey Bangkok
+Essential Skills & Mindset	250LMGT01C00	การบริหารจัดการกลยุทธ์และการนำเทคโนโลยีมาประยุกต์ใช้เพื่อเพิ่มศักยภาพ
+Essential Skills & Mindset	250FMGT04C00	กลยุทธ์การตลาดแบบก้าวข้ามขีดจำกัด
+Digital	250FITS01C00	แนวคิดพื้นฐานของระบบศูนย์ข้อมูลอินเทอร์เน็ต (Internet Data Center System)
+Team Collaboration	250FDES01W00	โครงการประกวดการพัฒนา Gen AI เพื่อเพิ่มประสิทธิภาพการทำงานในกระบวนการต่างๆ ขององค์กร (AI*dea 2025)
+Digital	250FSEC01C00	การปฏิบัติตาม พ.ร.บ.การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562 (สำหรับคณะทำงานฯ ปี 2568)
+การบริหารและจัดการ	250NTAX01C00	Fundamentals for New Auditor
+การบริหารและจัดการ	255NTAX02V00	IT Auditor for Non IT Auditor
+Broadband	252FOSP02S00	สัมมนาเชิงปฏิบัติการจัดทำ(ร่าง)มาตรฐานข่ายสาย NT- Optical Distribution Network (ODN) 
+Technology and Digital	250NDEV01C00	Advanced RAG for LLMs Application
+Project Management	250FMGT02C00	Project Management Fundamental (PMF)
+การบริหารและจัดการ	255NMGT02C00	Knowledgement Management and Organization Innovation Management
+การบริหารและจัดการ	250NMGT01C00	Knowledge Management and Organizational Innovation Management
+Digital	250FDGT02C00	Understanding LLM and Implementing RAG for supporting IP Network
+Good Governance and Corporate Social Responsibility	250CMKT02V00	NT CSR 2025 ภายใต้โครงการ เพาะพันธุ์ดี NT Youth Club ประจำปี 2568
+Team Collaboration	250LGEN01S00	สัมมนาเชิงปฏิบัติการเรื่อง Next challenge in Leadership: Humanity and Empathy
+Digital	250FDGT01C00	การสร้างแอปพลิเคชัน AI โดยใช้ Agentic AI และ LLMs สำหรับระบบ BSS/OSS ในอุตสาหกรรมโทรคมนาคม
+Risk, Policy , Law and Compliance	251FSAF01C00	ผู้บังคับปั้นจั่น ผู้ให้สัญญาณแก่ผู้บังคับปั้นจั่น ผู้ยึดเกาะวัสดุและผู้ควบคุมการปั้นจั่น สำหรับปั้นจั่นชนิดเคลื่อนที่
+Good Governance and Corporate Social Responsibility	252CMGT01S00	กิจกรรมสัมมนาเชิงปฏิบัติการเพื่อเพิ่มศักยภาพชมรม NT STRONG สำหรับคณะกรรมการบริหารชมรม  NT STRONG ส่วนกลางและส่วนภูมิภาค
+Digital	250FSEC02C00	การอบรมเชิงปฏิบัติการหลักสูตร การตั้งค่า Firewall เพื่อสนับสนุนการให้บริการ Cybersecurity (Cybersecurity Configuration Workshop Mastery)
+การบริหารและจัดการ	255NMGT04C00	How to Develop a Risk Management Plan (HRP)
+Good Governance and Corporate Social Responsibility	252CMGT02S00	กิจกรรมสัมมนาเชิงปฏิบัติการเพื่อเพิ่มศักยภาพชมรม NT STRONG ผู้ปฏิบัติงาน บมจ.โทรคมนาคมแห่งชาติในพื้นที่ ภาคตะวันออกเฉียงเหนือ
+Mobile /Wireless	250FSEL02E00	5G Private Network
+Digital	250CDGT02C00	Enhancing Audit Excellence with GenAI"
+Finance	250FAFS02C00	การบริหารและวางแผนภาษี
+Digital	250FCOM01C00	เตรียมความพร้อมพนักงานทั่วไปเพื่อรองรับเทคโนโลยี Data Analytics และ AI 
+Marketing & Effective Communication 	250FSEL01C00	Change Vision to Action : เปลี่ยนวิสัยทัศน์สู่การปฏิบัติเพื่อสร้างรายได้อย่างยั่งยืน
+Digital	250FDGT04V00	วิทยาศาสตร์ข้อมูลและการวิเคราะห์ข้อมูล
+Digital	250CDGT01S00	กิจกรรม AI*dea Pitching Day : โครงการประกวดการพัฒนา Gen AI เพื่อเพิ่มประสิทธิภาพการทำงาน ในกระบวนการต่างๆ ขององค์กร AI*dea 2025
+Network	253NTRX02C00	การใช้งานอุปกรณ์ Carrier Monitoring
+Essential Skills & Mindset	250LMGT02C00	การคิดเชิงกลยุทธ์
+Marketing & Effective Communication 	250CSEL01C00	กลยุทธ์การขายและการให้บริการกลุ่ม Datacom สำหรับองค์กรยุคดิจิทัล
+คุณภาพ มาตรฐาน และความปลอดภัย	255NSAF01C00	ผู้บริหารหน่วยงานความปลอดภัย (42 ชั่วโมง) (Safety Unit Manager Course)
+การบริหารและจัดการ	255NMGT05C00	Leadership Succession Program (LSP)
+Risk, Policy , Law and Compliance	250FSAF02C00	การดับเพลิงขั้นต้น ประจำปี 2568
+การบริหารและจัดการ	255NMGT07C00	ผู้นำการปฏิบัติ (Lead Implementer)
+กฎหมาย	255NLAW03C00	กฎหมายและคดีความรับผิดทางละเมิด ด้านการจัดซื้อจัดจ้าง และการบริหารพัสดุภาครัฐ
+Marketing & Effective Communication 	250FMGT03C00	CUSTOMER EXPERIENCE JOURNEY
+การบริหารและจัดการ	255NMGT08C00	Chief People Officer Program : CPO
+การบริหารและจัดการ	255NMGT10C00	ผู้นำการเปลี่ยนแปลงภาครัฐ (GTX – Government Transformation Xponential)
+กฎหมาย	255NLAW02C00	ประกาศนียบัตรชั้นสูงการบริหารงานภาครัฐและกฎหมายมหาชน (ปรม.)
+การบริหารและจัดการ	250NMGT02C00	ISO/IEC 27001:2022 Lead Auditor
+Digital	250FDEV02C00	DevOps พร้อมการใช้งาน Jira เพื่อบริหารโครงการพัฒนาซอฟแวร์
+Marketing & Effective Communication 	250FMKT01C00	NT CUSTUMER SERVICE I
+Marketing & Effective Communication 	250CMKT01C00	NT CONTACT CENTER OPERATIONS - SERVICE PROCESS IMPROVEMENT II
+Infrastructure (Energy&Power)	250FPOW01C00	ระบบ Solar Cell  เบื้องต้นและการบำรุงรักษา
+Risk, Policy , Law and Compliance	250FMGT06C00	การบริหารความเสี่ยงและการควบคุมภายใน (Enterprise Risk Management - ERM)
+Digital	250FDGT03C00	Fine tuning LLM and Agentic AI using MCP Server and Claude
+Network	255NNET01C00	การสอบ Certificate ประเภท Cisco Certified Network Professional : CCNP
+การบริหารและจัดการ	255NMGT06C00	Director Certification Program : DCP
+การกำลังและพลังงาน	253NTRX01C00	ระบบไฟฟ้าภายในอาคาร
+การบริหารและจัดการ	255NMGT09D00	Enabling Masterclass 2025
+Essential Skills & Mindset	250FSAF03C00	เพิ่มทักษะความรู้ ความเข้าใจ ด้านความปลอดภัย ในการทำงาน สำหรับพนักงานกลุ่มเสี่ยง
+Broadband	250FITS02C00	เพิ่มทักษะความรู้ ความเข้าใจ ในการติดตั้งและตรวจแก้บริการ Virtual PBX
+Essential Skills & Mindset	250FSEL03C00	นักประเมินอสังหาริมทรัพย์เพื่อการเช่า
+การบริหารและจัดการ	255NAFS02C00	การตรวจสอบ/หลักปฏิบัติราชการที่ดีในการจัดซื้อจัดจ้าง/การบริหารพัสดุภาครัฐ
+Essential Skills & Mindset	250FMGT01C00	พัฒนาบุคลิกภาพในการทำงาน การขายและการให้บริการ
+การบริหารและจัดการ	255NMGT15C00	TQA Criteria
+การบัญชี  การเงิน  ภาษี	255NAFS01C00	นักบริหารการงบประมาณระดับกลาง (นงก.)
+การบริหารและจัดการ	255NMGT12C00	ผู้นำแห่งการเปลี่ยนแปลง (ป.ย.ป.)
+Digital	250CMKT03C00	NT Youth Club ภายใต้โครงการเพาะพันธุ์ดี NT Youth Club ประจําปี 2568
+Risk, Policy , Law and Compliance	252FLAW01S00	สัมมนาเชิงปฏิบัติการทักษะในการปฏิบัติงานตามขั้นตอนของระเบียบคำสั่งและกฎหมายที่เกี่ยวข้องกรณีทรัพย์สินของบริษัทและบุคคลภายนอกได้รับความเสียหาย
+การกำลังและพลังงาน	253NEGY01C00	อุปกรณ์ UPS ขนาด 200KVA รวมทั้ง Battery และ Battery Monitoring พร้อมติดตั้ง
+Digital	250FDEV01C00	การใช้งาน Python ทางด้าน Data Analytics 
+Infrastructure (Energy&Power)	250FEGY01W00	การอบรมเชิงปฏิบัติการ Carbon Footprint Organization (CFO)
+คุณภาพ มาตรฐาน และความปลอดภัย	255NOSP02C00	การปฏิบัติงานบนเสาไฟฟ้าของ กฟน. ปี 2568 สำหรับ บุคคลภายนอก (ผู้ปฏิบัติงานติดตั้งสายสื่อสาร :  บัตรอนุญาตใหม่)
+Infrastructure (Network)	250FSAF01V00	Operational Safety
+คุณภาพ มาตรฐาน และความปลอดภัย	255NSEC03C00	DPO in Action รุ่นที่ 22 เจ้าหน้าที่คุ้มครองข้อมูลส่วนบุคคลภาคปฏิบัติ
+การกำลังและพลังงาน	255NEGY01C00	โครงการพัฒนาบุคลากรด้านการประยุกต์ใช้เทคโนโลยีพลังงานทดแทน
+Digital	250FDGT05C00	เสริมความรู้ Fortinet Certified Professional in Network Security
+Marketing & Effective Communication 	250FMGT07C00	Growth Hacking Marketing Strategy : A Jump to Success
+การบัญชี  การเงิน  ภาษี	255NAFS03C00	Bond Mathematics : Essential Concept & Tools
+Human Resource Management /Human Resource Development	250CHRX01C00	การสัมมนาเชิงปฏิบัติการ From Good HR To Great HRBP
+การบริหารและจัดการ	255NMGT11C00	Future - Ready Leadership : AI & People Transformation 
+Project Management	250FMGT10C00	การเขียนแผนที่ความรู้ การคัดเลือกและตรวจสอบหัวข้อความรู้ (Knowledge Mapping and Knowledge Audit)
+Digital	250CDGT03E00	NT Digital Literacy เพื่อการทำงานในยุคดิจิทัล
+การบัญชี  การเงิน  ภาษี	255NTAX01C00	ประกาศนียบัตรผู้ตรวจสอบภายใน ภาครัฐ (Certified Government Internal Auditor - CGIA) ระดับ 2 การตรวจสอบระบบสารสนเทศ (Information Technology Audit Specialist)
+คุณภาพ มาตรฐาน และความปลอดภัย	255NSEC04C00	Cyber War Game ฝึกกลยุทธ์รับมือภัยไซเบอร์สำหรับภาครัฐ สมาคมนักวิจัย ปท.ไทย
+Marketing & Effective Communication 	250FMKT03C00	การใช้ AI สร้างภาพและวิดีโอเพื่อการประชาสัมพันธ์
+Good Governance and Corporate Social Responsibility	250LCGG01W00	"การอบรมเชิงปฏิบัติการ การยกระดับการบริหารจัดการผู้มีส่วนได้ส่วนเสีย 
+(Stakeholder Management: SM) ตามกรอบ Core Business Enablers ของระบบ SE-AM ของบริษัท โทรคมนาคมแห่งชาติ จำกัด (มหาชน)"
+กิจกรรมอื่นๆ	250NSEM01S00	กิจกรรม The Power of Creativity at NT
+การบัญชี  การเงิน  ภาษี	255NAFS04C00	Derivatives and its Applications in Thailand
+Technology and Digital	255NSEC02C00	รักษาความปลอดภัยทางไซเบอร์สำหรับผู้บริหาร
+Broadband	250FDTC01V00	Advanced Broadband Telecommunications Systems
+Broadband	250FDTC02V00	Basic Transmission Network Troubleshooting
+Human Resource Management /Human Resource Development	250CMGT02V00	โครงการเสริมสร้างศักยภาพและพัฒนาดุลยภาพบุคลากร ประจำปี 2568 (เวียดนามกลาง)
+Good Governance and Corporate Social Responsibility	250LHRM01W00	การจัดทำแผนสร้างความสัมพันธ์ผู้มีส่วนได้ส่วนเสียระดับฝ่าย
+การตลาด การขาย และประชาสัมพันธ์	255NMKT01C00	สัมมนาด้านการตลาด TMA – Mar Freshing  ในหัวข้อ Retail Revolution in the B2B World
+การบริหารและจัดการ	255NHRM01C00	การประเมินผลลัพธ์ทางการเงินของงานบริหารทรัพยากรมนุษย์และการบริหารจัดการองค์กร (Return on Investment : ROI in HR – OD/ESG/CSR-CSV and General Management)
+Finance	250FAFS04E00	การจัดซื้อจัดจ้างและการบริหารพัสดุ (E-Learning)
+Digital	250FDGT10C00	Agentic AI Bootcamp Days
+Broadband	250FDTC04V00	Fundamentals of Network Management
+Marketing & Effective Communication 	250LMGT04C00	การสร้างแรงจูงใจในการทำงาน
+Marketing & Effective Communication 	250LMGT03C00	พัฒนาตนเอง สร้างสรรค์ผลงาน สู่ความสำเร็จ
+Digital	250FSEC03C00	Basic of Cyber Attack and Malware Detection by Generative AI
+การบริหารและจัดการ	255NHRM02C00	Trust in The Workplace : Boosting Workforce Engagement (เสริมความแกร่งขององค์กรด้วยความผูกพันของบุคลากร)
+Broadband	250FDTC03V00	Introduction to Maintenance Engineering for Telecommunication Operations
+การบัญชี  การเงิน  ภาษี	255NTAX03C00	Strategic Investment Risk Management
+การบริหารและจัดการ	250NMGT03C00	SOE PRO : Executive Program on SOE Performance and Results Optimization Through Performance Evaluation System
+Human Resource Management /Human Resource Development	250CMGT03V00	โครงการเสริมสร้างศักยภาพและพัฒนาดุลยภาพบุคลากร ประจำปี 2568 (กุ้ยหลิน)
+Network	250NTRX01C00	ระบบ Tracking จานสายอากาศ Ku Band
+Risk, Policy , Law and Compliance	250FSAF04C00	เจ้าหน้าที่ความปลอดภัยในการทำงาน ระดับเทคนิค  
+Marketing & Effective Communication 	250FMGT09C00	Business Etiquette: สร้างความประทับใจในทุกการติดต่อ
+Digital	250FDES02C00	การออกแบบ UX/UI 
+Risk, Policy , Law and Compliance	250FSEC04C00	การอบรมหลักสูตรเจ้าหน้าที่ความปลอดภัยในการทำงาน  ระดับหัวหน้างาน ประจำปี 2568
+Human Resource Management /Human Resource Development	250CHRX02W00	การสัมมนาเชิงปฏิบัติการ การสร้างองค์กรไปสู่ High Performance Organization
+การบริหารและจัดการ	255NMGT14C00	ผู้นำพัฒนาท้องถิ่นอัจฉริยะ (The Urban Intelligence Leadership Program : UILP#1)
+Digital	250FDGT12C00	การใช้งาน Canva เบื้องต้น เพื่อเพิ่มศักยภาพการสื่อสารและการนำเสนอในยุคดิจิทัล
+การบริหารและจัดการ	255NMGT13C00	ผู้นำการเปลี่ยนแปลงเพื่อยกระดับองค์กรสู่ยุคปัญญาประดิษฐ์อย่าง มีธรรมาภิบาล (AI CHANGE AGENT PROGRAM : AICA)
+Essential Skills & Mindset	250CDES01W00	NT Thriving New Business & Solutions
+เตรียมความพร้อมผู้บริหาร	250FHRM01C00	ผู้นำยุคใหม่ สร้างทีมให้ไปได้ไกล 
+การบริหารและจัดการ	255NSTO01C00	พระราชบัญญัติการจัดซื้อจัดจ้างและการบริหารงานพัสดุภาครัฐ พ.ศ.2560 พร้อมวิเคราะห์ปัญหาและแนวทางแก้ไข
+Marketing & Effective Communication 	250FMKT02C00	กลยุทธ์การกำหนดราคาเพื่อเพิ่มความสามารถในการแข่งขันในตลาด
+Risk, Policy , Law and Compliance	250FSAF05C00	เจ้าหน้าที่ความปลอดภัยในการทำงาน ระดับเทคนิคขั้นสูง
+Risk, Policy , Law and Compliance	252FMGT01W00	การจัดอบรมเชิงปฏิบัติการ  การบริหารความเสี่ยงและควบคุมภายใน รูปแบบ Top Down
+Broadband	250FMKT04V00	NT Products and Services for Non Technique
+Digital	250FMGT12C00	Knowledge Capture & PDPA for Knowledge Sharing
+Digital	250FDGT07C00	เรียนรู้ Agile & Scrum ด้วยเครื่องมือ Trello และ Jira
+Digital	250FDGT11C00	Agentic AI Development using n8n and MCP
+Risk, Policy , Law and Compliance	250FMGT11W00	Innovation Roadmap & Metric
+Mobile /Wireless	250FSEL04W00	5G Private Network (Workshop)
+Risk, Policy , Law and Compliance	250FSAF06C00	หลักสูตร เจ้าหน้าที่ความปลอดภัยระดับบริหาร 
+Risk, Policy , Law and Compliance	250FDGT13W00	Innovation for Leader
+Essential Skills & Mindset	252FDGT01W00	AI for Leaders & Business Transformation
+Digital	250FDES04C00	NT Agentic AI Hackathon Day 2025 
+Digital	250FDGT14W00	Pitching Day NT Agentic AI Hackathon 2025
+Digital	250FBDA01C00	DataOps
+Technology and Digital	255NDGT02C00	ทุนอบรมหลักสูตร  ASEAN Smart City Professional Program (ASPP) SHORT-TERM TRAINING SCHOLARSHIP
+Technology and Digital	255NDGT03C00	การเชื่อมต่อช่องว่างดิจิทัลด้วยดาวเทียมที่โคจรอยู่รอบโลกในระยะความสูงที่ค่อนข้างต่ำ เพื่อปลดล็อกอนาคตการเชื่อมต่อ 5G และ IoT
+Essential Skills & Mindset	250LMGT07C00	เทคนิคการมอบหมายงานอย่างมีประสิทธิภาพ
+Digital	250FDGT06C00	Quantum Technologies and Cybersecurity in the Post-Quantum Era
+Digital	250FCOM02S00	เปิดโลก AI เพื่อการทำงานของกลุ่มงานทรัพยากรบุคคล (กบ.)อย่างมั่นใจ ปลอดภัย และมีประสิทธิภาพ
+Good Governance and Corporate Social Responsibility	250FDES03W00	สถาปัตยกรรมองค์กร (Enterprise Architecture: EA) ในระดับปฏิบัติการ
+Risk, Policy , Law and Compliance	250FSAF08W00	การสอบสวนอุบัติเหตุและอุบัติการณ์โดยการใช้เทคนิคในการวิเคราะห์สาเหตุพื้นฐาน Root Cause Analysis (RCA)
+Digital	250FCLD01C00	Cloud Computing
+Digital	250FDGT09V00	การสื่อสารข้อมูลและการเล่าเรื่องด้วยข้อมูล
+Good Governance and Corporate Social Responsibility	252FMGT02C00	 หลักสูตร สถาปัตยกรรมองค์กร (Enterprise Architecture : EA)  ในระดับสูง (High Level) 
+Digital	250FDGT08C00	เรียนรู้ระบบอัตโนมัติ RPA ด้วย n8n
+Risk, Policy , Law and Compliance	250FSAF07C00	คณะกรรมการ ความปลอดภัย อาชีวอนามัย และสภาพแวดล้อมในการทำงาน
+Risk, Policy , Law and Compliance	250FLAW01C00	กฎหมายและกฎระเบียบ
+Digital	250FBDA02C00	Automate Social Listening with n8n
+Finance	250FAFS03C00	การวางแผนและบริหารงบประมาณ (Budget Planning and Management)
+Essential Skills & Mindset	250LMGT06C00	บริหารการเปลี่ยนแปลง (Navigating Change)
+Project Management	250FMGT08C00	Project Management Professional (PRO)
+Digital	250FDEV03C00	การจัดการ Source Code/Build/Deploy Web App ด้วย GitHub Actions และ Devops (C))
+Marketing & Effective Communication 	250LMGT05C00	การสื่อสารอย่างมีประสิทธิภาพ
+Infrastructure (Energy&Power)	250FPOW02C00	Rectifier setting for lithium battery
+Human Resource Management /Human Resource Development	250FHRX01C00	Pre - Retirement Planning Seminar 2027
